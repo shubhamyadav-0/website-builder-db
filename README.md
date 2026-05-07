@@ -1,1 +1,1 @@
-Project updated
+Liquibase is used for database schema versioning and migrations.
